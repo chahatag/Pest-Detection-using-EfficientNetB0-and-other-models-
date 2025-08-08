@@ -24,7 +24,7 @@ Dataset used:
 | **Custom CNN**   | 41.14%       | Built from scratch                  |
 | **MobileNetV2**  | 88.26%       | Transfer learning                   |
 | **ResNet50**     | 94.91%       | Transfer + fine-tuning              |
-| **EfficientNetB0** | **95.96%** | ✅ Best model - selected for deployment |
+| **EfficientNetB0** | **95.96%** | Best model - selected for deployment |
 
 All models were trained in the same Jupyter notebook:  
 `Pest_Detect_modeltrain.ipynb`
